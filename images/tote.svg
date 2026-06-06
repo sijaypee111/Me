@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="320" viewBox="0 0 480 320" role="img" aria-label="Classic Tote illustration">
+  <rect width="480" height="320" rx="32" fill="#4c4cc4" />
+  <path d="M120 120c0-48 88-56 120-56s120 8 120 56v96c0 24-20 44-44 44H164c-24 0-44-20-44-44v-96Z" fill="#9193ff" />
+  <path d="M172 120c0-33 21-60 48-60s48 27 48 60" stroke="#eef0ff" stroke-width="18" fill="none" stroke-linecap="round" />
+  <path d="M184 52c0-20 12-36 28-36s28 16 28 36" stroke="#eef0ff" stroke-width="16" fill="none" stroke-linecap="round" />
+  <path d="M140 184h200" stroke="#eef0ff" stroke-width="14" stroke-linecap="round" />
+</svg>
